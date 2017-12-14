@@ -7,14 +7,14 @@
 
 写下自己一周工作的review和接下来的计划，并提交到此项目的[issues](https://github.com/ilydouble/weeklyreview/issues)
 
-**提交时间**：每周周日(组会之前)
+**提交时间**：每周周五(下班之前)
 
 **提交地址**：[`ilydouble/weeklyreview/issues`](https://github.com/ilydouble/weeklyreview/issues)=>点击`New issue`
 
 ## 格式
 
 **标题**：`Review-{yyyy.mm.dd(必须为当周周日的日期)}-{姓名}`
-> 例如:`Review-2017.10.26-张三`( 2017.10.26为周日 )
+> 例如:`Review-2017.10.24-张三`( 2017.10.24为周日 )
 
 **内容**：使用Markdown标记语言编辑自己这周的工作学习内容及下周的安排
 
